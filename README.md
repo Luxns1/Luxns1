@@ -1,40 +1,38 @@
-# 👋 Olá, eu sou Adriano!
+# Oiii! Eu sou o Adriano Luis 👋
 
-🎓 Estudante de Ciências Atuariais  
-📊 Data Analytics | People Analytics  
-💻 Python | SQL | Power BI | Excel
+<div align="center">
+  <a href="https://github.com/Luxns1">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Luxns1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/Luxns1">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luxns1&theme=dark&hide_border=false&layout=compact&langs_count=7" />
+  </a>
+</div>
 
----
+### 🛠️ Tecnologias e Ferramentas
 
-## 🚀 Sobre mim
+<div align="left">
+  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="R" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="SQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PowerBI" height="35" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
+  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Pandas" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+</div>
 
-Sou estudante de Ciências Atuariais, com interesse em
-Dados, Analytics e tecnologia.
+### 🌐 Redes Sociais e Contato
 
-Atualmente busco desenvolver soluções que transformem
-dados em informações úteis para tomada de decisão.
-
----
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## 📊 Projetos
-
-### 📈 Dashboard de People Analytics
-Análise de indicadores de RH utilizando Power BI.
-
-### 🧮 Análise de Dados
-Projetos utilizando Python, Pandas e SQL.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+<div align="left">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://discord.gg/SEU-DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
+  </a>
+</div>
