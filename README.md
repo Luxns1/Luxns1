@@ -1,6 +1,12 @@
 # Oiii! Eu sou o Adriano Luis 👋
 
 <div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh3aXVjNGd2bTJnaGZ1Zjl1M2xibjgzcWpxcDQ0ZnZ6bjlmbmgyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando GIF" width="300" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/Luxns1">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Luxns1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   </a>
