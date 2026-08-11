@@ -1,10 +1,4 @@
-# Oiii! Eu sou o Adriano Luis 👋
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh3aXVjNGd2bTJnaGZ1Zjl1M2xibjgzcWpxcDQ0ZnZ6bjlmbmgyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando GIF" width="300" />
-</div>
-
-<br>
+# Oiii! Eu sou o Adriano Luis, prazer! 
 
 <div align="center">
   <a href="https://github.com/Luxns1">
@@ -13,6 +7,12 @@
   <a href="https://github.com/Luxns1">
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luxns1&theme=dark&hide_border=false&layout=compact&langs_count=7" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando GIF" width="300" />
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas
