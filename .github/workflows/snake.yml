@@ -1,4 +1,4 @@
-name: gerando a animação
+name: gerando animação
 
 on:
   schedule:
@@ -9,6 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
