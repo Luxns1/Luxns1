@@ -53,5 +53,9 @@ Me chamo Adriano Luis Araújo Alves. Atualmente, estou cursando dupla graduaçã
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Luxns1/Luxns1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
   <img src="https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando GIF" width="300" />
 </div>
