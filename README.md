@@ -2,7 +2,7 @@
 
 ` Desenvolvedor Full Stack `
 
-Me chamo Adriano Luis Araújo Alves. Atualmente, estou cursando dupla graduação em Ciência da Computação e Big Data & Inteligência Analítica. Sou apaixonado por tecnologia e gosto muito de compartilhar conhecimento :). Atualmente dou aulas de desenvolvimento Web básico como criação de E-commerces.
+Me chamo Adriano. Atualmente, estou cursando dupla graduação em Ciência da Computação e Big Data & Inteligência Analítica. Sou apaixonado por tecnologia e gosto muito de compartilhar conhecimento :). Atualmente dou aulas de desenvolvimento Web básico como criação de E-commerces.
 
 <div align="left">
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
